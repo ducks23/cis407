@@ -10,10 +10,12 @@ consumer_key = "HGsZXt7tWobrtdS6NhAtl0m1E"
 consumer_secret =  "OHnLgBJmQsJhBMafGiwPeKCRAm1DknXjpzRM7GYccWFTVGny3r"
 class StdOutListener(StreamListener):
     def on_data(self, data):
-        decoded = json.loads(data)
-        file = open('f.json', 'w')
-        json.dump(decoded, file, sort_keys = True, indent = 4)
-        print("writing tweet ctrl + c to quit")
+        try:
+            with open('dat.json', 'a') as f:
+                f.write(data)
+                return True
+        except BaseExcecption as e:
+            print("Error on_dataL %s" % str(e))
         return True
 
     def on_error(self, status):
@@ -25,5 +27,5 @@ if __name__ == '__main__':
     auth.set_access_token(access_token, access_token_secret)
     stream = Stream(auth, l)
 
-    stream.filter(track=["spacex", "elon musk", "university of oregon"])
+    stream.filter(track=["Olympics"])
 

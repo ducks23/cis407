@@ -4,8 +4,7 @@ from tweepy import Stream
 import json
 
 
-with open('f.json', 'r') as n:
-	distros_dict = json.load(n)
-
-for distro in range(0,100):
-	print(distros_dict[distro])
+with open("hockey.json", "r") as n:
+	line = n.readline()
+	tweet = json.loads(line)
+	print(json.dumps(tweet, indent=4))
