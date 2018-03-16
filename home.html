@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Leaflet Web Map</title>
+
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+
+<style>
+#map {
+    width: 960px;
+    height:500px;
+}
+</style>
+
+</head>
+
+<body>
+
+    <div id="map"></div>
+
+<script>
+
+    var xhttp = new XMLHttpRequest();
+
+	var mytiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+});
+    var map = L.map('map');
+    /*$(function (){
+        $.ajax({
+            type: 'GET',
+            url: 'http://127.0.0.1:8000//geo_data.json',
+            success: function(data){
+                console.log('success', data);
+            }
+        });
+    });*/
+    $.getJSON("http://localhost:8000/geo_data.json", function(data) {
+    var myStyle = {
+        radius: 2,
+        fillColor: "red",
+        color: "red",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 1
+    };
+    
+    var geojson = L.geoJson(data, {
+        pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, myStyle);
+        }
+    });
+    geojson.addTo(map)
+});
+
+
+    map.addLayer(mytiles).setView([50.5, 5.0], 3);
+
+    
+
+</script>
+
+</body>
+
+</html>
