@@ -1,0 +1,4429 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Road construction, two lanes closed in #St.ClairShores on I-94 WB from N River Rd to 8 Mile Rd #traffic https://t.co/93KUmrD8jO",
+                "created_at": "Mon Mar 05 03:50:16 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.85712,
+                    42.59081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Lev LOVES baseball \u26be\ufe0f @ Salt River Fields at Talking Stick https://t.co/qGUhGeWIiL",
+                "created_at": "Mon Mar 05 03:50:38 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.88538285,
+                    33.54538256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Go where you feel most alive. \ud83d\udc4d\ud83c\udffb\ud83d\udcaa\ud83c\udffc\ud83d\ude0a\n.\n.\n.\n#kawasanfalls #falls #nature #cafc2018\u2026 https://t.co/McVQehV2JO",
+                "created_at": "Mon Mar 05 03:50:45 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.396,
+                    9.86472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "So much fun yesterday!!! @1justinjackson alexparrarivera @ Space Mountain https://t.co/i0CGMtYkS9",
+                "created_at": "Mon Mar 05 03:51:16 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.917291,
+                    33.811572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Nap time at Homewood. @ Homewood Mountain Resort https://t.co/4iT2Orsz5U",
+                "created_at": "Mon Mar 05 03:52:38 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.16064,
+                    39.08586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#cajunseasoning #spatchcock #biggreenegg @ Bull Mountain, Oregon https://t.co/F0oCDeICnJ",
+                "created_at": "Mon Mar 05 03:54:01 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81555556,
+                    45.42
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#cajunseasoning #spatchcock #biggreenegg @ Bull Mountain, Oregon https://t.co/F0oCDeICnJ",
+                "created_at": "Mon Mar 05 03:54:01 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81555556,
+                    45.42
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Hoosier State sunsets \ud83c\udf05\u2764\ufe0f #jeffersonville #nature #sunset #indiana @ Clark County, Indiana https://t.co/mo6NOO1Ygz",
+                "created_at": "Mon Mar 05 03:55:34 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.72,
+                    38.48
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Just posted a photo @ Kuils River https://t.co/5luOhfIzjH",
+                "created_at": "Mon Mar 05 03:55:53 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6667,
+                    -33.9333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u266a(\uff0f^-^)\uff0f\u2606\u266a hibernation is over!!! #boatsnohoes @ Colorado River https://t.co/zk0cnlKQgS",
+                "created_at": "Mon Mar 05 03:58:48 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.59084,
+                    30.22634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Autumn \ud83c\udf42@ the headwaters of the Bear River @ Smith and Morehouse Reservoir https://t.co/PAtO7d0yq4",
+                "created_at": "Mon Mar 05 03:59:01 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.84768484,
+                    40.68121127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Teller lake with Rocky mountain range in the back\n.\n.\n.\n: #BeautifulLake #Boulder #BoulderCO\u2026 https://t.co/3CavMQ9Wsh",
+                "created_at": "Mon Mar 05 04:00:23 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.142225,
+                    40.03983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "1 California Gnatcatcher (Polioptila californica) - San Gabriel River--Whittier Blvd. - 2018-03-04 07:30 https://t.co/Z4elJyfU2a",
+                "created_at": "Mon Mar 05 04:01:13 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.07027,
+                    33.99325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#Celebrating #KikiOnTheRiver \ud83c\udf89\ud83c\udf7e\ud83e\udd42 @ Kiki On The River https://t.co/rxGDQg0iX8",
+                "created_at": "Mon Mar 05 04:02:23 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.20499,
+                    25.77778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u91cd\u3044\u671d\u3054\u306f\u3093\u3002\u3002\u3002 @ Singapore River https://t.co/gFrkMnPaIo",
+                "created_at": "Mon Mar 05 04:03:42 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84899403,
+                    1.28759722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Cosmos and Nature\n#om #mantra #guadalajara #jalisco #zapopan #viarecreativa #art #streetart\u2026 https://t.co/8CKzikwdJU",
+                "created_at": "Mon Mar 05 04:04:49 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.359375,
+                    20.71501515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Amazing weekend in Kicking Horse with @backsidetours (\ud83d\udcf7 cred: ppaigela) @ Kicking Horse Mountain\u2026 https://t.co/eSN8HFchjv",
+                "created_at": "Mon Mar 05 04:05:05 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.07847408,
+                    51.27450135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "San antonio river walk... #travelgram #traveldiaries #sanantonio\u2026 https://t.co/hNyYpQKSHX",
+                "created_at": "Mon Mar 05 04:05:39 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.48822134,
+                    29.42445991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Current status: Boromir\u2019s funeral |  Day 3/3 Whanganui River Journey  #weonlysankonce #BYOwaka @\u2026 https://t.co/YoWe6At9ph",
+                "created_at": "Mon Mar 05 04:07:25 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.6342,
+                    -39.1294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Nusa Penida has so many amazing place to see created by nature. This is one of them.\u2026 https://t.co/tH4mxavveY",
+                "created_at": "Mon Mar 05 04:07:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.48021,
+                    -8.7059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Hike Hype with Royalty \ud83d\udcaa\nTruly, some of the best people out there\ud83d\udc9a @ Griffith Observatory https://t.co/kTgeGajU3i",
+                "created_at": "Mon Mar 05 04:08:21 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.30046204,
+                    34.11884489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Traveled to hood river for this brewery. - Drinking a Belgian Strong Blonde by @pfriemBeer at @pfriembeer  \u2014 https://t.co/K8o1Az2C5k",
+                "created_at": "Mon Mar 05 04:09:44 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.518,
+                    45.7147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Appreciating God\u2019s wonderful nature. \ud83d\ude0a\n#Summit\n#MtTalimsala @ Mt. Talamitam, Nasugbu Batangas https://t.co/cwIANakQVH",
+                "created_at": "Mon Mar 05 04:09:50 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9685887,
+                    14.1224176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Flood alert level for \ud83d\udea9 Little Sioux River at Milford has \u2b07 decreased. \u26a0 Alert level: Flood Stage  #iowaflood",
+                "created_at": "Mon Mar 05 04:10:04 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.201667,
+                    43.327778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#flora #nofilter #asuszenphone3zoom \ud83c\udf3c\ud83c\udf3b\ud83c\udf3a\ud83c\udf43\ud83e\udd40\ud83c\udf39\ud83c\udf38 @ Mambukal Mountain Resort https://t.co/SYwzfN1b6l",
+                "created_at": "Mon Mar 05 04:11:26 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Young #ballerina participated at #chingay #festival in #singapore #riverhangbao @ River Hongbao\u2026 https://t.co/HPOmPm5YAf",
+                "created_at": "Mon Mar 05 04:11:38 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8590656,
+                    1.28861353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#flora #nofilter #asuszenphone3zoom \ud83c\udf3c\ud83c\udf3b\ud83c\udf3a\ud83c\udf43\ud83e\udd40\ud83c\udf39\ud83c\udf38 @ Mambukal Mountain Resort https://t.co/pNVYHnRIAV",
+                "created_at": "Mon Mar 05 04:13:23 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#flowers #flower #petal #petals #nature #beautiful #love #pretty #plants #blossom #sopretty\u2026 https://t.co/hMBXk39OVd",
+                "created_at": "Mon Mar 05 04:14:40 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.80150654,
+                    3.48498335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "I'm at Inn Of The Mountain Gods Resort &amp; Casino - @innofthemtgods in Mescalero, NM https://t.co/5CIR6zCLpr",
+                "created_at": "Mon Mar 05 04:15:56 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.69022692,
+                    33.29524122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Bridge and tunnels in 1A. Hudson River Crossings - call tips to 212-377-7757 #traffic https://t.co/cLJ9IKsg5n",
+                "created_at": "Mon Mar 05 04:16:04 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01686,
+                    40.76878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Yo te quiero RIVER PLATE a vos te sigo vos sos MI VIDA\n \ud83d\udd34\u26aa\ud83d\udc13\u2764 en\u2026 https://t.co/w9qwxUWp9f",
+                "created_at": "Mon Mar 05 04:16:18 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.44945613,
+                    -34.54570496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#flora #nofilter #asuszenphone3zoom \ud83c\udf3c\ud83c\udf3b\ud83c\udf3a\ud83c\udf43\ud83e\udd40\ud83c\udf39\ud83c\udf38 @ Mambukal Mountain Resort https://t.co/BkMii5mKmM",
+                "created_at": "Mon Mar 05 04:16:52 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Visit nature while it is FRESH. @ Little Yosemite https://t.co/1vtqHJJYO7",
+                "created_at": "Mon Mar 05 04:17:29 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.84793,
+                    37.526844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#mumlavskyvodopad #harrachov #mumlava #waterfall #krkonose #giantmountains #nature #landscape\u2026 https://t.co/ITYQrNYPWG",
+                "created_at": "Mon Mar 05 04:18:53 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45198236,
+                    50.77107328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#sunrise balcony view #riverhouse #klongsan #thonburi on #chaophraya river #scenesfrommyhouse\u2026 https://t.co/ORTZgY4UJk",
+                "created_at": "Mon Mar 05 04:19:51 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.494,
+                    13.7522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Cuantos hay en la foto? 1, 2, 3...4 \ud83d\ude1c\ud83d\ude0a @ Liberty Mountain Resort https://t.co/GrPVeCWLdv",
+                "created_at": "Mon Mar 05 04:21:20 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.37546,
+                    39.76329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "@G_LEV3 we wore helmets just for you \ud83d\ude18 @ Copper Mountain Resort https://t.co/IJRTYxHlB9",
+                "created_at": "Mon Mar 05 04:21:37 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.046598,
+                    39.628909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Totskie with manang jenny \ud83d\ude0a\u2764\ufe0f @ Mambukal Mountain Resort https://t.co/g5wkYk5Rt2",
+                "created_at": "Mon Mar 05 04:23:33 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Nature brings out the inner and outer beauty of ladies. Being a nature and outdoor lover i loved\u2026 https://t.co/k9Dbhx1BHf",
+                "created_at": "Mon Mar 05 04:24:35 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.82361111,
+                    -1.24027778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Merced River Canyon from Wawona Road #wawonaroad #mercedrivercanyon #yosemitenps #yosemite\u2026 https://t.co/uKeNqLY0l5",
+                "created_at": "Mon Mar 05 04:24:36 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.58379984,
+                    37.74491163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#Traveler #Tolantongo #Nature en Grutas De Tolantongo Y La Gloria https://t.co/aUGnmQq0Pn",
+                "created_at": "Mon Mar 05 04:24:56 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.2333,
+                    20.4833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Colors are the smiles of nature..and achievement has no color am super loving this post thank\u2026 https://t.co/xXhWSqQTAq",
+                "created_at": "Mon Mar 05 04:27:07 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.7280151,
+                    29.9164221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Fog&amp; cold\n#mist #fog #dark #darkness #lost #lostplaces #hiking #trip #nature #landscape #travel\u2026 https://t.co/BnFEQL7vaG",
+                "created_at": "Mon Mar 05 04:28:27 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0889,
+                    18.425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Great form #roadtrip - Drinking a Boat Drink by @kernriverbrewin @ Kern River Brewing Company  \u2014 https://t.co/lERnBrgYqv #photo",
+                "created_at": "Mon Mar 05 04:28:34 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.419,
+                    35.7575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u5c71\u9802\u304b\u3089\u306e\u98a8\u666f\u3002\u7a7a\u306e\u9752\u3068\u6d77\u306e\u9752\u304c\u30ad\u30ec\u30a4\u3067\u3059\u26f0\ufe0f\n#\u92f8\u5c71 #\u5c71 #\u7a7a #\u6d77 #\u98a8\u666f #sky #sea #mountain \u5834\u6240: \u92f8\u5c71\u5c71\u9802 https://t.co/BlulVGnwEF",
+                "created_at": "Mon Mar 05 04:28:39 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.09894251,
+                    35.79569039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "I'm at Smokey Mountain's Finest in Sevierville, TN https://t.co/KpbOUE9NIv https://t.co/T5eR1mST5U",
+                "created_at": "Mon Mar 05 04:28:48 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.67290905,
+                    35.73945096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u201c if you want to see the sunshine you have to weather the storm \u201c #nature #sky #sun #summer\u2026 https://t.co/l7n1ITgU4c",
+                "created_at": "Mon Mar 05 04:29:04 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.839,
+                    -6.2173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#nature #selfie #night en Providencia, Chile https://t.co/lg9XRIwpBb",
+                "created_at": "Mon Mar 05 04:29:12 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61666667,
+                    -33.43333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Colores vespertinos \n.\n.\n.\n.\n#mexico #hidalgo #waterfall #rainbow #water #stone\u2026 https://t.co/w1e0MrJclv",
+                "created_at": "Mon Mar 05 04:29:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.56378846,
+                    20.23449125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "When wasps are hungry \ud83d\ude05#wasp #nature #flower #mauritius #sonya6000 #sel55210 #igersmauritius @\u2026 https://t.co/IqDTLxXFO2",
+                "created_at": "Mon Mar 05 04:30:58 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.61,
+                    -20.15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Caught in the act si bungisngis bonenegirl \ud83d\ude02\ud83e\udd23\ud83d\ude18 @ Mambukal Mountain Resort https://t.co/HMQI6S12oo",
+                "created_at": "Mon Mar 05 04:30:59 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Birthday girl. @ Multnomah Falls, Columbia River Gorge National Scenic Area https://t.co/BReVE9Ewas",
+                "created_at": "Mon Mar 05 04:34:00 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.11745,
+                    45.57727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Me&amp;I myself....\n\ud83c\udf3f #nature #toptags top.tags #sky #nature_lovers #nature_brilliance #ff_nature\u2026 https://t.co/QwxDzQj3c1",
+                "created_at": "Mon Mar 05 04:35:29 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.1891876,
+                    14.7258997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "10-mile hike (one-way) to Havasupai, carrying 25lbs of camping gear,\u2026 https://t.co/mq3Xf9OBfS",
+                "created_at": "Mon Mar 05 04:35:40 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.70919,
+                    36.1592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "The human spirit needs places where nature has not been rearranged by the hand of man. ~Unknown\u2026 https://t.co/dVUVuq2x24",
+                "created_at": "Mon Mar 05 04:35:58 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.5,
+                    39.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u0421\u043e\u0431\u0430\u043a\u0430 \u043b\u0430\u0435\u0442, \u043f\u043e\u0434\u0443\u0448\u043a\u0430 \u043b\u0435\u0442\u0438\u0442 @ Volga River, Samara https://t.co/J2Ez88SmUE",
+                "created_at": "Mon Mar 05 04:36:07 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.08821383,
+                    53.19427167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Take 1, 2, 3, 4! \ud83d\ude30\ud83d\ude35\ud83d\ude02 #reignofchaos #totskieonaRoll #fantasticfour @ Mambukal Mountain Resort https://t.co/G8kSVjwydo",
+                "created_at": "Mon Mar 05 04:37:27 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Went on a short hike at Pinewood Reservoir with Amanda for her birthday. #pinewood #hiking\u2026 https://t.co/aqRmsDu1Gp",
+                "created_at": "Mon Mar 05 04:37:56 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.212704,
+                    40.356882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Otro de mis lugares favoritos en #Monterrey ... \ud83d\udc4c\ud83c\udffc\n.\n.\n.\n#nochesmexico \ud83c\uddf2\ud83c\uddfd #river @ Santa Luc\u00eda\u2026 https://t.co/ueYGHEBsPl",
+                "created_at": "Mon Mar 05 04:38:43 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.29811667,
+                    25.67257778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Weee (@ Poring Hot Spring &amp; Nature Reserve in Ranau, Sabah) https://t.co/iqyyJoGagH",
+                "created_at": "Mon Mar 05 04:38:53 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.70370281,
+                    6.04588718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "No matter how sophisticated you may be, a large mountain cannot be denied \u2013\u00a0it speaks in silence\u2026 https://t.co/tZirfNlAPD",
+                "created_at": "Mon Mar 05 04:41:23 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.6333,
+                    -15.7667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Someone once told me to take a hike. Today, I finally did that. @\u2026 https://t.co/nzwxQAjI3D",
+                "created_at": "Mon Mar 05 04:42:09 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.851,
+                    39.3808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Just posted a photo @ \u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e02\u0e49\u0e32\u0e21\u0e41\u0e21\u0e48\u0e19\u0e49\u0e33\u0e41\u0e04\u0e27 River Kwai Bridge https://t.co/4ZyiefpR6y",
+                "created_at": "Mon Mar 05 04:42:13 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.56013,
+                    14.03798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#nature #mystery \u270c\ud83d\ude2e en Providencia, Chile https://t.co/lobr1IAYGT",
+                "created_at": "Mon Mar 05 04:42:24 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61666667,
+                    -33.43333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Just loving @ Abu the true beauty of nature @ Mount Abu https://t.co/izutQVXDzJ",
+                "created_at": "Mon Mar 05 04:42:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.7,
+                    24.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Beautiful day and sunset on the mountain. #bogusbasin #sunset #idaho @ Bogus Basin Mountain\u2026 https://t.co/JDQ5vsTiYz",
+                "created_at": "Mon Mar 05 04:43:10 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2060623,
+                    43.6434517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "After that hike I decided to grub on something that outweighs me @\u2026 https://t.co/1YEleEdcqA",
+                "created_at": "Mon Mar 05 04:43:37 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.88071156,
+                    39.4026376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83d\udcfd Nature perfection\n.\n.\n.\n.\n.\n.\n.\n.\n.\n_________________________\n#landscape #nature #video\u2026 https://t.co/idcxTvAkpA",
+                "created_at": "Mon Mar 05 04:44:11 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.31823046,
+                    -6.86951037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#Emprego alerta: Oak Openings Restoration Assistant - 46250 | The Nature Conservancy | #Swanton, OH\u2026 https://t.co/XbmMbSsXWm",
+                "created_at": "Mon Mar 05 04:44:23 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.793111,
+                    41.617768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Goedemorgen #goodmorning #snow #pinecone #nature #naturephotography #naturelovers #natureshot\u2026 https://t.co/BpEps2KE4b",
+                "created_at": "Mon Mar 05 04:44:58 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6119738,
+                    51.76118645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Someone is rolling over, and playing dead... \ud83d\udc15\ud83d\udc36\ud83d\ude18\ud83d\ude02 chattokki.uaena93 @ Mambukal Mountain Resort https://t.co/QQijvCrjxD",
+                "created_at": "Mon Mar 05 04:45:12 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Join the The Nature Conservancy team! See our latest #job opening here: https://t.co/DFbZgjeZAW #Conservation\u2026 https://t.co/dpIDW136Ee",
+                "created_at": "Mon Mar 05 04:46:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.177958,
+                    43.627267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Bridge &amp; tunnel information in Hudson River Crossings:  Tappan Zee Bridge (Rockland-Bound) #traffic https://t.co/cLJ9IKsg5n",
+                "created_at": "Mon Mar 05 04:47:02 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.866,
+                    41.0663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "10-mile hike (one-way) to Havasupai, carrying 25lbs of camping gear,\u2026 https://t.co/7IxzmNwrmy",
+                "created_at": "Mon Mar 05 04:47:03 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.70919,
+                    36.1592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "This wasp flew around for a while with its #prey, then stuffed it into its nest. #nature\u2026 https://t.co/PNXblGxqyU",
+                "created_at": "Mon Mar 05 04:47:14 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.9817,
+                    18.7903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Yahoooo messenger \ud83e\udd13\ud83d\ude02\ud83e\udd23\ud83d\ude18\ud83d\ude18\ud83d\ude18 @iamStaaarrrving @ Mambukal Mountain Resort https://t.co/99u2jQ7Jwp",
+                "created_at": "Mon Mar 05 04:49:43 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83e\udd2a\ud83e\udd2a\ud83e\udd2a (@ Hadramout Paradise River Front in Ipoh, Perak) https://t.co/MyQ9xglf5Q https://t.co/Ss9lq2Nr5s",
+                "created_at": "Mon Mar 05 04:51:30 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.07896831,
+                    4.60142142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Mountain bike sunny Sunday.  #ridega #spring. #drytrails #blanketscreekmtb #nature\u2026 https://t.co/JjHGUTcPEh",
+                "created_at": "Mon Mar 05 04:53:15 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53916527,
+                    34.16166036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#roadtrip - Drinking a Think Tank #15 by @kernriverbrewin @ Kern River Brewing Company  \u2014 https://t.co/E7D08shOs3 #photo",
+                "created_at": "Mon Mar 05 04:54:35 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.419,
+                    35.7575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Side to Side \ud83c\udf0a\n#BlueWater #SumilonIsland #HappyKid #Travel #Nature #CebuCity #Oslob #Kiddo @\u2026 https://t.co/xBdU5LD4tU",
+                "created_at": "Mon Mar 05 04:55:53 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.38979713,
+                    9.43416461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Hola amigos #birds #parrot #loro #cotorras #kl #asia #malaysia #love #colors #nature #photo\u2026 https://t.co/9mDmSJ2qY4",
+                "created_at": "Mon Mar 05 04:56:39 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.7,
+                    3.16667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Felicio Fam #1, #1. 1 and #3... Go figure it out \ud83d\ude01\ud83d\ude02 @ Mambukal Mountain Resort https://t.co/TWMaj6Y9Og",
+                "created_at": "Mon Mar 05 04:58:00 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Beautiful day fir a hike!   #optoutside #himss18 @ Calico Tanks - Red Rock https://t.co/FNnFPPOaqn",
+                "created_at": "Mon Mar 05 04:58:01 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.43757683,
+                    36.16078308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\uc9c0\ub09c \uc8fc\ub9d0\uc5d4 \ubc18\ud314\uc785\uace0 \uace8\ud504, \uc774\ubc88 \uc8fc\ub9d0\uc5d4 \uc2a4\ub178\uc6b0\ubcf4\ub4dc. \uc5ed\uc2dc \ub0a8\uac00\uc8fc \ub0a0\uc528\ub294 \ucd5c\uace0. #\uc2a4\ub178\uc6b0\ubcf4\ub4dc #\ucf08\ub9ac\ud3ec\ub2c8\uc544 #\ucd5c\uace0\uc758\ub0a0\uc528 @ Mountain High https://t.co/V3rTyIHlRO",
+                "created_at": "Mon Mar 05 04:58:40 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.69148207,
+                    34.37687392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Not to be repeated anytime soon. Squashed 11km in just under 1 hour. @ Waterfall Midrand https://t.co/eZ0viZF20O",
+                "created_at": "Mon Mar 05 04:58:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.09635401,
+                    -26.01407723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#designideation #thinkcreateinspire #madeintheusa #stillwatermn #nature #naturelovers #outdoors\u2026 https://t.co/vENJr3UweH",
+                "created_at": "Mon Mar 05 04:59:13 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.80568,
+                    45.05427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#hike with one of my #beautiful #GGs \ud83d\udc6f\u200d\u2640\ufe0f #delmar and a visit with\u2026 https://t.co/aOBAfwNmEo",
+                "created_at": "Mon Mar 05 04:59:43 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.2554242,
+                    32.9211066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "1 Yellow-bellied Sapsucker (Sphyrapicus varius) - Tilden Nature Area - 2018-03-04 16:50 https://t.co/fO8s7R5kr2",
+                "created_at": "Mon Mar 05 05:01:13 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2617302,
+                    37.9147478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Powder Mountain, Utah #powdermountain #utah #skiing\u26f7 #skiingislife @PowMow @ Powder Mountain https://t.co/eMYSqH8HY6",
+                "created_at": "Mon Mar 05 05:01:48 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.78142548,
+                    41.37981945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#Adventure &amp; #travel -what more could a girl or guy want-great guest post by @Lily_and_Spain https://t.co/uz7DoIFwqK https://t.co/8GToSw9fIV",
+                "created_at": "Mon Mar 05 05:02:12 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3339902,
+                    40.5909089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Instead of drifting along like a leaf in a river, understand who you are and how you come across to people and what\u2026 https://t.co/9jiUMvUhdO",
+                "created_at": "Mon Mar 05 05:03:33 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.39379883,
+                    9.06277062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Instead of drifting along like a leaf in a river, understand who you are and how you come across to people and what\u2026 https://t.co/RpwNdobXa9",
+                "created_at": "Mon Mar 05 05:03:34 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3792057,
+                    6.5243793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "We drank whisky in a teacup on a carousel after a moat rise on the LA River. Most interesting\u2026 https://t.co/ULGMzJf4QN",
+                "created_at": "Mon Mar 05 05:03:59 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.23758841,
+                    34.03840012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Mi guarda e pensa... vuoi una foto? #kangaroo#melbourne#australia#animal#nature#wild @\u2026 https://t.co/sVjoIodKgP",
+                "created_at": "Mon Mar 05 05:05:35 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0,
+                    -37.7167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Nature's record player. @ Killbuck, Ohio https://t.co/KzRLkZkNJh",
+                "created_at": "Mon Mar 05 05:06:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9833,
+                    40.4981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Senderos de Alux\n\n#naturaleza #nature #naturephotography #ways en Parque Ecologico Senderos De Alux https://t.co/eX1l2ns3EG",
+                "created_at": "Mon Mar 05 05:06:43 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4486879,
+                    14.5564412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Totally worth it \ud83d\udc93 @ Kiltepan Peak, Sagada, Mountain Province https://t.co/C4H3yIG6hy",
+                "created_at": "Mon Mar 05 05:07:13 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.91472617,
+                    17.09241762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Jal , Vayu , Agni , Prithvi, Aakash !\nThe five elements of nature are the core factors for the\u2026 https://t.co/c1jAqKEEoQ",
+                "created_at": "Mon Mar 05 05:08:16 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.03769225,
+                    17.9737292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Hola nature \ud83d\udc99 @ Bedugul Danau Beratan https://t.co/wU9DD9kOpA",
+                "created_at": "Mon Mar 05 05:08:36 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.19764614,
+                    -8.64450061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "360 degree view from today\u2019s hike, and my new favorite spot. Snow\u2026 https://t.co/qMjhNw53fH",
+                "created_at": "Mon Mar 05 05:09:13 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.932,
+                    34.1203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Much better this time\ud83d\udc4c\n#mountainbike #nature #seaofclouds @ Sonnen Berg Mountain View https://t.co/LOeHvP49da",
+                "created_at": "Mon Mar 05 05:09:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.29077833,
+                    7.360325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83d\udc40 @TreasurOfTravel shared experience from Niagara Falls in \u201cTreasures Of Traveling!\u201d https://t.co/gXjEOJZD2x\u2026 https://t.co/LkMUnwHCMJ",
+                "created_at": "Mon Mar 05 05:09:45 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0849436,
+                    43.0895577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#beautiful #dog \n.\n.\n#beauty #nature #naturaleza #fotos #foto #fotografia #like #love\u2026 https://t.co/YOItpo8BYO",
+                "created_at": "Mon Mar 05 05:09:45 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.2467,
+                    19.6469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#nature #TagsForLikes #sky #sun #summer #beach #beautiful #pretty #sunset #sunrise #blue\u2026 https://t.co/WhVLupSLGk",
+                "created_at": "Mon Mar 05 05:10:19 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.679,
+                    32.7516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#unwind #nature #beach  \ud83c\udfd6\ud83c\udfd6\ud83c\udfca\ud83c\udffb\u200d\u2640\ufe0f #travel #happy #nature @ Patitinan White Beach Resort https://t.co/OmR6h0LkYG",
+                "created_at": "Mon Mar 05 05:10:54 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.55299,
+                    13.55069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "beach or mountain? @ San Pablo City https://t.co/SCNutjtSJz",
+                "created_at": "Mon Mar 05 05:12:00 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.326,
+                    14.0669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Taking in the beautiful views of Khao Son.\n.\n.\nKhao Sok is a nature reserve in southern\u2026 https://t.co/CFrx3NEO5G",
+                "created_at": "Mon Mar 05 05:12:12 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.530278,
+                    8.936667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Construction on #I87NYSThruway SB from Before Exit 8/8A (I-87) - I-287 - Route 119 - Saw Mill River Parkway to...https://t.co/3lBOxR5x9u",
+                "created_at": "Mon Mar 05 05:15:14 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.83324,
+                    41.052025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Construction on #I87NYSThruway SB from Before Exit 8/8A (I-87) - I-287 - Route 119 - Saw Mill River Parkway to...https://t.co/ZhYbXjlrxY",
+                "created_at": "Mon Mar 05 05:15:14 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.83324,
+                    41.052025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\uff3c ON TAP TODAY \uff0f\n\n\uff12\u6a3d\u30c1\u30a7\u30f3\u30b8\u3057\u307e\u3057\u305f\u301c\u301c\ud83d\udc23\ud83d\udc23\u2728\n.\n\ud83c\uddfa\ud83c\uddf8Knee Deep\u300eLupulin River Imperial\u2026 https://t.co/1CxWQHTu30",
+                "created_at": "Mon Mar 05 05:15:28 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71362829,
+                    35.66556425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Crepes &amp; Waffles Parque de la 93 #CrepesYWaffles is #nowplaying Ain't No Mountain High Enough - Bossa Version by #MarcelaMangabeira",
+                "created_at": "Mon Mar 05 05:16:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0816371,
+                    4.6899967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u7dd1\u304c\u591a\u3044\u306e\u306f\u3088\u304b\u3063\u305f\u304c\u3001\u5f15\u3063\u8d8a\u3057\u305f\u6642\u671f\u304c\u3061\u3087\u3046\u3069\u731b\u6691\u3067\u3001\u4ed5\u65b9\u304c\u306a\u3044\u306a\u3068\u601d\u3063\u3066\u3044\u305f\u304c\u3001\u6bce\u671d\u90e8\u5c4b\u304b\u3089\u3067\u308b\u3068\u5916\u968e\u6bb5\u306b\u8749\u306e\u6b7b\u9ab8\u304c\u3042\u308a\u3001\u6bce\u671d\u9a5a\u3044\u305f\u3002\uff08\u30b3\uff0d\u30dd\u30de\u30ad\uff09 #\u845b\u897f\u99c5 #\u6c5f\u6238\u5ddd\u533a https://t.co/KuhRplsWxt",
+                "created_at": "Mon Mar 05 05:16:49 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.872905,
+                    35.66594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Model ka ferns. \ud83d\ude02\ud83e\udd23\ud83d\ude18 @bubureyfel #feliciofam #7 @ Mambukal Mountain Resort https://t.co/sSBPFH4yfw",
+                "created_at": "Mon Mar 05 05:18:44 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "McDowell Mountain Music Festival. #mmmf #phoenix #arizona #music #bands #festival #myphx\u2026 https://t.co/7lsvIlZIzH",
+                "created_at": "Mon Mar 05 05:18:50 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.02564,
+                    33.571824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#mountains #stadium #clouds #snowymountains #nature #naturephotography #photooftheday\u2026 https://t.co/lnFeqePKdQ",
+                "created_at": "Mon Mar 05 05:19:19 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.32102,
+                    32.21787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Nature never goes out of style @ Mayana Peak https://t.co/fvtAptE7w0",
+                "created_at": "Mon Mar 05 05:19:51 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.283,
+                    10.4292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Enjoying WA Day with a bit of slacklining by the Swan River #justanotherdayinwa #slackline\u2026 https://t.co/hCE3BKWvpP",
+                "created_at": "Mon Mar 05 05:20:00 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.79109167,
+                    -32.01329167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "He said \"You are dressed just like you are from the river tribe of Wakanda\" I said \"That's what\u2026 https://t.co/At53cH8N1z",
+                "created_at": "Mon Mar 05 05:22:15 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.91930676,
+                    33.80696594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#nofilterneeded for #nature .\n#nodescription needed to describe its beauty \ud83d\ude42 @ Anjarle,\u2026 https://t.co/fdjsEcO8uB",
+                "created_at": "Mon Mar 05 05:23:04 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.0917,
+                    17.8517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83d\udc46 @ Loser (mountain) https://t.co/SLzMFEMBqC",
+                "created_at": "Mon Mar 05 05:25:09 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77111111,
+                    47.66083333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Searching for wonder and finding waterfalls waterfall #Spiritfest #yoga #nature  #hike @\u2026 https://t.co/iANhOO9eGA",
+                "created_at": "Mon Mar 05 05:26:30 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.64232,
+                    -34.043715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "I was in this exact same road years ago, when i was in high school. \ud83d\ude0a\u2764\ufe0f @ Mambukal Mountain Resort https://t.co/r14lDlJsRp",
+                "created_at": "Mon Mar 05 05:26:37 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "SundayFunday w my boys\u2600\ufe0f\ud83d\udc36 @ Arkansas River https://t.co/evNgnnkJtl",
+                "created_at": "Mon Mar 05 05:27:05 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.070833,
+                    33.775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Great day for a #hike ! #latergram #gooutside #slolife @ Bishops Peak San Luis Obispo https://t.co/oTzBmFGPjS",
+                "created_at": "Mon Mar 05 05:30:58 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.44855,
+                    33.06612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83d\udec1\ud83c\uddef\ud83c\uddf5 @ Mambukal Mountain Resort https://t.co/bKWcSTYjk9",
+                "created_at": "Mon Mar 05 05:31:27 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Just posted a photo @ River Walk https://t.co/eWoyEbLB1O",
+                "created_at": "Mon Mar 05 05:31:40 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.626564,
+                    41.8884858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Those views though...\ud83d\ude4a\u270c\ud83c\udffb | #latergram #puntacana #nofilter #dominicanrepublic #nature #ocean\u2026 https://t.co/JoIpGTelq8",
+                "created_at": "Mon Mar 05 05:32:46 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.3667,
+                    18.5333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#pearl or #moon \n#fullmoon #nature #photography #photooftheday #travelling #travelphotography\u2026 https://t.co/LQPkwXNYYW",
+                "created_at": "Mon Mar 05 05:33:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.3173132,
+                    32.2139789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "went on a spontaneously road trip. @ Salvation Mountain https://t.co/O9d2OqpaCo",
+                "created_at": "Mon Mar 05 05:34:09 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.47261111,
+                    33.25413889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "100 dahon para kay Stella. \u263a\ufe0f\ud83d\ude02\ud83d\ude1d @iamStaaarrrving \ud83c\udf43\ud83c\udf40\ud83c\udf3f @ Mambukal Mountain Resort https://t.co/bH6em2JJ5d",
+                "created_at": "Mon Mar 05 05:35:34 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Pertak trip is a Bang Bang @ Kampung Pertak Waterfall https://t.co/al3yo981Is",
+                "created_at": "Mon Mar 05 05:36:02 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.73471,
+                    3.57825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "See that blue bird peekin through? \ud83d\udc40 @ Stevens Pass Mountain Resort https://t.co/JtvN2jtTlq",
+                "created_at": "Mon Mar 05 05:37:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.09025717,
+                    47.74482826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Bucket list: \nHike in the Canyon\u2705\n\n\u2022  As a foreigner I highly recommend for people from\u2026 https://t.co/aQKM97exT4",
+                "created_at": "Mon Mar 05 05:38:02 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.74919,
+                    39.09667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Bucket list: \nHike in the Canyon\u2705\n\n\u2022  As a foreigner I highly recommend for people from\u2026 https://t.co/aQKM97exT4",
+                "created_at": "Mon Mar 05 05:38:02 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.74919,
+                    39.09667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Hidden \ud83c\udf33\ud83c\udf33\ud83c\udfb6\n\n#girl #mandolin #folk #redhair #trees #nature #forrest #natural #photoshoot\u2026 https://t.co/Iq6No4p8K1",
+                "created_at": "Mon Mar 05 05:38:17 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.682,
+                    10.7694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "100 paniki para kay Stella. \ud83d\ude1d\ud83d\ude02\ud83e\udd87\ud83e\udd87\ud83e\udd87 @iamStaaarrrving @ Mambukal Mountain Resort https://t.co/VljXz0mjap",
+                "created_at": "Mon Mar 05 05:41:10 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Young juuliiiee_ \ud83c\udf39 @ Six Flags Magic Mountain https://t.co/yYmBn8rnv2",
+                "created_at": "Mon Mar 05 05:41:23 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.5952967,
+                    34.42373725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u2022 Skeletons of nature waiting for resurrection \u2022\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n#photographyeveryday #art\u2026 https://t.co/bOIgzDET6W",
+                "created_at": "Mon Mar 05 05:41:50 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.74079132,
+                    41.74134643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u2022 Skeletons of nature waiting for resurrection \u2022\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n#photographyeveryday #art\u2026 https://t.co/C9j84aKj8u",
+                "created_at": "Mon Mar 05 05:42:22 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.74079132,
+                    41.74134643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Needs more snow.... #Skiing @ Wildcat Mountain https://t.co/WFZhDJQWWT",
+                "created_at": "Mon Mar 05 05:42:42 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.24525803,
+                    44.25754193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u2022 Skeletons of nature waiting for resurrection \u2022\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n#photographyeveryday #art\u2026 https://t.co/PkbjV7S0iP",
+                "created_at": "Mon Mar 05 05:42:45 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.74079132,
+                    41.74134643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Fire Effects Analyst - Internship - 46251 - The Nature Conservancy ( #Durham, NC ) https://t.co/2Buc5sgVBJ\u2026 https://t.co/JnWkodccwu",
+                "created_at": "Mon Mar 05 05:44:27 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9046031,
+                    35.9930435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Just posted a photo @ River Walk https://t.co/RPdaec6A86",
+                "created_at": "Mon Mar 05 05:45:08 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.626564,
+                    41.8884858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u76ee\u306e\u524d\u306b\u516c\u5712\u304c\u3042\u3063\u3066\u7dd1\u306f\u3044\u3064\u3082\u76ee\u306b\u5165\u308a\u307e\u3059\u3002\u3061\u3087\u3063\u3068\u6b69\u3051\u3070\u8d64\u585a\u690d\u7269\u5712\u304c\u3042\u3063\u3066\u690d\u7269\u304c\u597d\u304d\u306a\u65b9\u306f\u6c17\u306b\u3044\u308b\u306e\u3067\u306f\u7121\u3044\u3067\u3057\u3087\u3046\u304b\u3002\uff08\u30e1\u30be\u30f3\u30d6\u30e9\u30f3\u30b7\u30e5\uff09 #\u6210\u5897\u99c5 #\u677f\u6a4b\u533a https://t.co/Yj0tRnE86m",
+                "created_at": "Mon Mar 05 05:45:10 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.638257,
+                    35.777712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Mt Ugo, by far my most challenging mountain yet. Only completed 29 out of the supposed 32km, but\u2026 https://t.co/pEL5tnnabR",
+                "created_at": "Mon Mar 05 05:45:17 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677,
+                    16.3639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Spent my Sunday hiking around Torrey Pines Nature Reserve with my girls @jamieg318 &amp;\u2026 https://t.co/UBVRhfahei",
+                "created_at": "Mon Mar 05 05:45:17 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.2554242,
+                    32.9211066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Beautiful Desert Mountain Golf Course Community in Scottsdale AZ https://t.co/j9TE1sYwRC\u2026 https://t.co/z7ss9WVvan",
+                "created_at": "Mon Mar 05 05:45:56 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.85202122,
+                    33.83680738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Stabbing \nWest Don River Trl &amp; West Don River Trl \n[53 Div.]  03/05 00:36 \n#Toronto",
+                "created_at": "Mon Mar 05 05:47:05 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3521796,
+                    43.7237446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#Trabajo en #Durham, NC Fire Effects Analyst - Internship - 46251 de The Nature Conservancy https://t.co/OaE2NB1yjB\u2026 https://t.co/a7zPkm0MG3",
+                "created_at": "Mon Mar 05 05:47:17 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9046031,
+                    35.9930435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "He enterrado cuentos y calendario.\n.\n.\n.\n.\n.\n#Park #Trees #Street #Nature #Landscape #VSCO\u2026 https://t.co/MapTfuu0sV",
+                "created_at": "Mon Mar 05 05:48:33 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.283,
+                    25.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Can't move on from this beautiful waterfall. Good place and good people. Really get deep\u2026 https://t.co/JyvGpyeqwF",
+                "created_at": "Mon Mar 05 05:49:12 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.033,
+                    -8.18333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "100 \"piktyuri ako dya, day\" para kay Stella. \ud83d\ude23\ud83d\ude35\ud83d\ude12\ud83d\ude06\ud83d\ude02\ud83d\ude18 @iamStaaarrrving @ Mambukal Mountain Resort https://t.co/pPnPn5D4Jt",
+                "created_at": "Mon Mar 05 05:49:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Spent my Sunday hiking around Torrey Pines Nature Reserve with my girls @jamieg318 &amp;\u2026 https://t.co/TwJNFtPWmh",
+                "created_at": "Mon Mar 05 05:49:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.2554242,
+                    32.9211066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Found some fluffy stuff today. Nice and easy when we practically had the mountain to ourselves.\u2026 https://t.co/h7h1OVbWQu",
+                "created_at": "Mon Mar 05 05:50:31 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6541475,
+                    40.5825725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u2764 Sunday Soul Food #SundayFunday #vasquezrocks #soulfood #nature\u2026 https://t.co/NMU63SNCy9",
+                "created_at": "Mon Mar 05 05:51:48 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.317,
+                    34.4799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "LOL @ White River, Saint Mary, Jamaica https://t.co/HyrZ693Elv",
+                "created_at": "Mon Mar 05 05:52:29 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0667,
+                    18.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Interview room in the middle of nature #flashback @inoxparkparis #festival #electro\u2026 https://t.co/KxsBIKTNLg",
+                "created_at": "Mon Mar 05 05:56:37 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.32385,
+                    48.84087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Sauce \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\n-\nStyle reference: Black and Gold\n\ud83d\udca3\ud83d\udc51\n-\n#Neyen9 #Style #instagood #nature\u2026 https://t.co/om058eynCZ",
+                "created_at": "Mon Mar 05 05:57:43 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.243,
+                    34.0522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Beautiful view to the Waipio Valley from white road hike. \ud83d\ude0d Who would thought that week later I\u2026 https://t.co/blsTv7fwzi",
+                "created_at": "Mon Mar 05 05:59:14 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.66777778,
+                    20.02027778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Road construction, two lanes closed in #St.ClairShores on I-94 WB from N River Rd to 8 Mile Rd #traffic https://t.co/93KUmrUJbm",
+                "created_at": "Mon Mar 05 05:59:19 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.85712,
+                    42.59081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Cermin Dari Malam\n\n#travelphotography \n#keluarbentar @ Big River Church https://t.co/BEQeJHTn8S",
+                "created_at": "Mon Mar 05 06:03:00 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.80738,
+                    -6.1348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Duck mountain trail riding #snowmobiling #manitoba #duckmountainprovincialpark @ Manitoba https://t.co/exoHaHMt1F",
+                "created_at": "Mon Mar 05 06:03:45 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0,
+                    55.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Mississippi River Bridge\n#lacrosse #lacrossewisconsin #mississippi @ Mississippi River Bridge https://t.co/nRiv7tcIHP",
+                "created_at": "Mon Mar 05 06:04:32 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.2594,
+                    43.8092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83d\udcf8\ud83d\udea3\u200d\u2642\ufe0f\ud83d\udea3\u200d\u2640\ufe0f @ Mambukal Mountain Resort https://t.co/qYQ1WP6dtY",
+                "created_at": "Mon Mar 05 06:04:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "A little blue sky beach adventure in the midst of days and days of epic rain. \nMother Nature is\u2026 https://t.co/noB3SGjn75",
+                "created_at": "Mon Mar 05 06:05:15 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.13305556,
+                    36.43305556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "1 Red-breasted Sapsucker (Sphyrapicus ruber) - Deschutes River SP - 2018-03-04 07:38 https://t.co/2eYPyG8gpM",
+                "created_at": "Mon Mar 05 06:06:12 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.9078884,
+                    45.6306103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#tejupilco #cerrodelamu\u00f1eca #cerrogordo  #edodemex #edodemexico #mountain #roads #sheisarainbow\u2026 https://t.co/ELDgZfswYy",
+                "created_at": "Mon Mar 05 06:06:21 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.15277778,
+                    18.90583333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u0411\u0430\u0440\u0431\u0435\u043a\u044e \u041e\u0441\u0442\u0438\u043d \u041f\u0430\u0443\u044d\u0440\u0441 \ud83e\udd17 @ Namuang Waterfall Samui https://t.co/nduwiCiyP9",
+                "created_at": "Mon Mar 05 06:07:29 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.9884489,
+                    9.46035022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83c\udfe1\ud83c\udfe0\ud83c\udf33\ud83c\udf32\ud83d\udcf8 @ Mambukal Mountain Resort https://t.co/nEYyz84osL",
+                "created_at": "Mon Mar 05 06:08:40 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "JARIBASPHOTO\nNATURA - Nature Photo\nMis fotografias. Mis SENSACIONES. / My photographs. My\u2026 https://t.co/Qv2ZzNtlhg",
+                "created_at": "Mon Mar 05 06:08:56 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.18333,
+                    41.3833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Just posted a photo @ Sonnen Berg Mountain View https://t.co/0jue3Idss1",
+                "created_at": "Mon Mar 05 06:12:54 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.502249,
+                    7.014109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Just a bunch of trees \ud83c\udf32\n#shapical #tree #nature #bluesky #jakarta #indonesia #sejuk #picoftheday\u2026 https://t.co/ljNBA1etKj",
+                "created_at": "Mon Mar 05 06:13:56 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.839,
+                    -6.2173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "G\u00fczel K\u0131br\u0131s'\u0131n muhte\u015fem yaban \u00e7i\u00e7ekleri #flower #flowers #plants #wild #hike #hikingtrail\u2026 https://t.co/w40RCyOEXj",
+                "created_at": "Mon Mar 05 06:14:26 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.1417,
+                    35.3125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Clouds enshroud the mountain peaks on Oahu.\n.\n.\n.\n.\n#Hawaii #travel #nature #naturephotography\u2026 https://t.co/eedulJb6nw",
+                "created_at": "Mon Mar 05 06:14:32 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.9165731,
+                    21.3684389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83d\udc9b\ud83c\udf0f\ud83e\udd8bThe World is Our Home\ud83d\udc0b\ud83c\udf0d\ud83d\udc9b\n#nature #natureza #\u043f\u0440\u0438\u0440\u043e\u0434\u0430 #\u81ea\u7136 #natureperfection #naturephotography\u2026 https://t.co/lVUD2nFIey",
+                "created_at": "Mon Mar 05 06:15:51 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6833,
+                    36.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "USGS reports a M0.8 #earthquake 36km E of Lazy Mountain, Alaska on 3/5/18 @ 6:09:52 UTC https://t.co/xBugs2Bpu2 #quake",
+                "created_at": "Mon Mar 05 06:17:02 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -148.2549,
+                    61.5869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Alpenglow sunset over the mountain tops. @ South Lake Tahoe, California https://t.co/TiPgRGOY6s",
+                "created_at": "Mon Mar 05 06:17:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.977,
+                    38.94
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "R.I.P. to the strongest woman I\u2019ve ever known, my abuelita Cata. No mountain was ever high\u2026 https://t.co/RVJ8pt355A",
+                "created_at": "Mon Mar 05 06:18:21 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.45103549,
+                    32.62449348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "River Hill (Lauderdale County, AL) https://t.co/aLOsCBqD3R https://t.co/UA9KBMiwIk",
+                "created_at": "Mon Mar 05 06:18:27 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6730843,
+                    34.7948101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "How glorious a greeting the #sun gives the #mountains \u26f0 \n\n#landscapephotography \n#NaturePhotography \n#photograghy\u2026 https://t.co/kaAfyKq933",
+                "created_at": "Mon Mar 05 06:19:14 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.32179849,
+                    32.2231214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Landmark and landscape (#landscape #landmark #horizon) @ Markham Park Nature Trail https://t.co/T3Jo8MFKNs",
+                "created_at": "Mon Mar 05 06:19:45 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.36178,
+                    26.12836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "The Four Bedroom sole use  &amp;Beyond Matetsi River Lodge provides the perfect safari with family or friends.\u2026 https://t.co/l7CXG12XlT",
+                "created_at": "Mon Mar 05 06:20:04 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.51465623,
+                    51.26696639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Winter 2016 edition [1/3] | #plzen #naturephotography #natgeotravel #dnescestujem #nature\u2026 https://t.co/FuPbUuRHcB",
+                "created_at": "Mon Mar 05 06:22:53 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3667,
+                    49.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "When I am in nature I am a free man because I love #freedom \u00e0 Algeria https://t.co/ZSd3XqbwE3",
+                "created_at": "Mon Mar 05 06:23:14 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    28.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Fell off the mountain \u26f0 #mountwellington #hobart #tasmania #moreresearchneeded six hours and we\u2026 https://t.co/idXJ8Y0xmX",
+                "created_at": "Mon Mar 05 06:23:31 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.328429,
+                    -42.880195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "A beautifu calm but cold evening at kirkjufell mountain in Iceland.\nIceland is just an amazing\u2026 https://t.co/9kkvBbhbuI",
+                "created_at": "Mon Mar 05 06:24:03 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.3072109,
+                    64.9274267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Que este \u00e1rbol invada el espacio \ud83c\udf33\n#tree #green #nature #plaza #patiotlalpan #tlalpan #cdmx\u2026 https://t.co/MCF78iFXFy",
+                "created_at": "Mon Mar 05 06:24:37 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.17808,
+                    19.28152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Kick ass weekend in all the Tahoe pow \ud83d\udca5 @ Kirkwood Mountain Resort https://t.co/GSdfZms24Z",
+                "created_at": "Mon Mar 05 06:26:14 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.0678704,
+                    38.68439706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u201cAnd we\u2019ll just put a happy little skier over here...\u201d -Bob Ross @ Heavenly Mountain Resort https://t.co/4se5JcZlWu",
+                "created_at": "Mon Mar 05 06:26:45 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.9157811,
+                    38.9242535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Lihat dan kenyang..\n\n\ud83d\udccdMargaret River Chocolate Factory, WA\u2026 https://t.co/eYsfpxTaJt",
+                "created_at": "Mon Mar 05 06:26:51 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.98623,
+                    -31.85212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#pearl or #moon \n#fullmoon #nature #photography #photooftheday #travelling #travelphotography\u2026 https://t.co/I45cY7qL5x",
+                "created_at": "Mon Mar 05 06:27:50 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.3173132,
+                    32.2139789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Up in the hills above Los Angeles \ud83d\ude0ehanging out with nature\ud83e\udd85\ud83d\udc3f #losangeles #hollywoodhills #nature\u2026 https://t.co/bC1Tu5bcoj",
+                "created_at": "Mon Mar 05 06:28:18 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.243,
+                    34.0522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "appreciation post for this broken person who's tragically beautiful!\ud83d\ude02 hope u're doing alright bbq \ud83e\udd17 i love u to the\u2026 https://t.co/hzZeCwdF7i",
+                "created_at": "Mon Mar 05 06:30:39 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98515283,
+                    14.58838257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Totskie and his temporary nook. \u2764\ufe0f\ud83d\ude0a #camping101 @ Mambukal Mountain Resort https://t.co/U8t9MQ8oVJ",
+                "created_at": "Mon Mar 05 06:33:33 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.95612,
+                    10.63616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Picnic lunch and some slack line on the river (@ Shelley Foreshore Park in Rossmoyne, WA) https://t.co/QvWeNsLMf7 https://t.co/a6uzBCB0bf",
+                "created_at": "Mon Mar 05 06:34:11 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.86614013,
+                    -32.03476492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "La nature me surprendra toujours \ud83d\ude0d Bonjour lundi \ud83d\udc4b\ud83c\udffc\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n#Paris #toit\u2026 https://t.co/RpJTIoOnB7",
+                "created_at": "Mon Mar 05 06:35:28 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3508,
+                    48.8567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "It is in the nature of mammals (everything alive or otherwise, in fact) to seek the path of\u2026 https://t.co/SHJPeOkYDI",
+                "created_at": "Mon Mar 05 06:35:53 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.16666667,
+                    8.83333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "On 05/03/18 at 06:00 the river level was 0.37m.",
+                "created_at": "Mon Mar 05 06:36:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.72079484,
+                    52.42588914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#daffodils #rain #drops #flower #nature #march2018 #instagram #iphonograpy #uk \n\u0648\u0627\u0648\u0631\u0648 \u0681\u067e\u0644\u06cc \u0648\u2026 https://t.co/iTkGibCAOD",
+                "created_at": "Mon Mar 05 06:37:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.45,
+                    51.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Imperial Jezebel #butterfly #naturephotography #nature #backyardnature @ Barongarook West https://t.co/YPERVdegLw",
+                "created_at": "Mon Mar 05 06:37:50 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.54636635,
+                    -38.41623429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#JoeyDsRoadTo1000 - Drinking a Sumatra Mountain Brown (2018) by @foundersbrewing @ Joey D's Chi-Wa  \u2014 https://t.co/tWBZr2ADLu #photo",
+                "created_at": "Mon Mar 05 06:39:03 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.465,
+                    47.6965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "[something profound] #capetown #monday #mondaymotivation #igers #fitness @ Lions Head Mountain\u2026 https://t.co/GHYugeBIDD",
+                "created_at": "Mon Mar 05 06:42:43 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.39681,
+                    -33.9266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u5317\u5411\u304d\u306e\u90e8\u5c4b\u306f\u3001\u524d\u9762\u306e\u9053\u8def\u3068\u9762\u3057\u3066\u3044\u3066\u3001\u4e0a\u5c64\u968e\u306b\u9650\u3089\u308c\u307e\u3059\u304c\u3001\u4eca\u306e\u3068\u3053\u308d(\u9ad8\u3044\u5efa\u7269\u304c\u4eca\u5f8c\u5efa\u3066\u3089\u308c\u306a\u3051\u308c\u3070)\u3001\u30b9\u30ab\u30a4\u30c4\u30ea\u30fc\u3082\u898b\u3048\u308b\u3068\u601d\u308f\u308c\u3001\u305d\u308c\u306a\u308a\u306e\u30e1\u30ea\u30c3\u30c8\u306f\u3042\u308b\u3088\u3046\u306b\u601d\u3046\u3002\uff08\u30af\u30ea\u30aa\u65e5\u672c\u6a4b\u4e45\u677e\u753a\uff09 #\u6d5c\u753a\u99c5 #\u4e2d\u592e\u533a https://t.co/qiLRqQMuLQ",
+                "created_at": "Mon Mar 05 06:44:07 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.78386968,
+                    35.68982858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#nofilter #killersmile #cotapaxi #getcairn #mountains #alaska #fit #snow #nature #photography\u2026 https://t.co/ssmPfFDdfk",
+                "created_at": "Mon Mar 05 06:44:25 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.899,
+                    61.2183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "The Nature Conservancy #Emprego: Grassland Conservation Fellowship - Cross Ranch ND - 46080 ( #Center, ND )\u2026 https://t.co/3nqWGEihQn",
+                "created_at": "Mon Mar 05 06:44:36 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.9709057,
+                    47.1241388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "I'm at A\u011fao\u011flu My Mountain Uluda\u011f in Bursa, T\u00fcrkiye w/ @_tucik https://t.co/FZmzUbMtJ9",
+                "created_at": "Mon Mar 05 06:44:42 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.14272913,
+                    40.10871514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Happiness is alone time in nature \ud83c\udf3f\ud83c\udf0a @ \u0e40\u0e01\u0e32\u0e30\u0e1e\u0e07\u0e31\u0e19 https://t.co/MGM2DQZvC6",
+                "created_at": "Mon Mar 05 06:44:51 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.98753209,
+                    9.71068718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "The simple joys of a kitchen garden...\n\n#kitchengarden #broccoli #Dehradun #farming #nature\u2026 https://t.co/fJP4wp1fNa",
+                "created_at": "Mon Mar 05 06:44:57 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0333,
+                    30.3167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "ASIA | AUNZ \u2014  Tourism concerns if sacred mountain sites declared off limits - South Australian Aboriginal Affairs\u2026 https://t.co/PGBaDcFVIg",
+                "created_at": "Mon Mar 05 06:46:04 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.23779297,
+                    -33.86357381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "My absolute heart and soul. Let all that you do, be in love @ Mountain Lakes Resort: Lytle\u2026 https://t.co/SZP68GVoJw",
+                "created_at": "Mon Mar 05 06:46:06 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.490181,
+                    34.2521396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "ASIA | AUNZ \u2014  Tourism concerns if sacred mountain sites declared off limits https://t.co/BsEe2qU2js",
+                "created_at": "Mon Mar 05 06:46:09 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.23779297,
+                    -33.86357381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "... she doesn\u2019t have to choose between being gentle and being fierce. Both exist in nature and\u2026 https://t.co/2iACtZ2npA",
+                "created_at": "Mon Mar 05 06:46:34 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0667,
+                    -26.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Antes de ser atacados por los changos! \ud83d\udc12\n.\n.\n.\n.\n.\n.\n.\n.\n#monkeybeach #phiphiisland #nature\u2026 https://t.co/FCLoklTZrb",
+                "created_at": "Mon Mar 05 06:48:48 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.76295947,
+                    7.74300236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#NoPlanetB #Earth #MotherNature #nature #naturalist\u00a0 #greenery #\ud83c\udf31 #NaturalBeauty #earthcapture\u2026 https://t.co/IGLHt7SbmH",
+                "created_at": "Mon Mar 05 06:50:36 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.275,
+                    37.8718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#aujourdhuiphotographie #todayphotography #pommedepain #sapin #nature #naturephotography \u00e0\u2026 https://t.co/fwB9PqI89d",
+                "created_at": "Mon Mar 05 06:51:39 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.81416667,
+                    48.38666667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "This is a Jumping Spider..which I would not want landing on me lol  #spider #natureporn #nature\u2026 https://t.co/6U0CXosos8",
+                "created_at": "Mon Mar 05 06:52:08 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.81885211,
+                    1.25453019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "When snow falls, nature listens. @ \uc12d\uc9c0\ucf54\uc9c0 https://t.co/8qA3of6JQe",
+                "created_at": "Mon Mar 05 06:52:32 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.93091911,
+                    33.42479689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#landscape #landscapelovers #sky #nature #naturelovers #nationalgeographic #sunset #sunrise\u2026 https://t.co/1tfukAxYmX",
+                "created_at": "Mon Mar 05 06:52:37 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.32611111,
+                    40.55388889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u30a4\u30f3\u30b9\u30bf\u30b9\u30dd\u30c3\u30c8\ud83d\udcf8\n\n\u307b\u3093\u3068\u306b\u3053\u308c\u3060\u3051\u30dd\u30c4\u30f3\u3068\u3042\u3063\u305f\ud83d\ude02\n\n#california #salvationmountain #salvation\n#mountain #god #is #love\u2026 https://t.co/M5NuYpNC9t",
+                "created_at": "Mon Mar 05 06:52:48 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.47261111,
+                    33.25413889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#aujourdhuiphotographie #todayphotography #table #mousse #nature #naturephotography \u00e0 Saint-Mamm\u00e8s https://t.co/0sSh9bIip6",
+                "created_at": "Mon Mar 05 06:53:40 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.81416667,
+                    48.38666667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Black Window Spider vs European Wasp. No winners. Both dead. #tasmania #nature #tarkine\u2026 https://t.co/j7eMyeE9Qp",
+                "created_at": "Mon Mar 05 06:53:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.28,
+                    -41.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Lieblingsrunde #walking #nature #outdoor #landscape #scenery #wanderlust #alps #chiemgau #bayern\u2026 https://t.co/eFmSeaSuY5",
+                "created_at": "Mon Mar 05 06:54:11 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59705838,
+                    47.85044743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Nature lover  \ud83d\ude0d @ Bato Spring Resort San Pablo City Laguna https://t.co/uQq4zMnf8z",
+                "created_at": "Mon Mar 05 06:55:32 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3621779,
+                    14.0343165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Had some tough decisions this weekend. #akk @ Hood River, Oregon https://t.co/8kBdW9FSO3",
+                "created_at": "Mon Mar 05 06:55:42 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.522,
+                    45.7067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#NoPlanetB #Earth #MotherNature #nature #naturalist\u00a0 #greenery #\ud83c\udf31 #NaturalBeauty #earthcapture\u2026 https://t.co/ZiXzzr7MOX",
+                "created_at": "Mon Mar 05 06:57:54 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.275,
+                    37.8718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Blyde River Canyon Kruger Lowveld #southafricathroughmyeyes #breathtakingviews @ Hazyview,\u2026 https://t.co/UDswhQsgKm",
+                "created_at": "Mon Mar 05 06:59:31 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1167,
+                    -25.0333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Cleared: Construction on #I87NYSThruway SB from Before Exit 8/8A (I-87) - I-287 - Route 119 - Saw Mill River Parkway to After Exit 6A...",
+                "created_at": "Mon Mar 05 07:00:17 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.83324,
+                    41.052025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Cleared: Construction on #I87NYSThruway SB from Before Exit 8/8A (I-87) - I-287 - Route 119 - Saw Mill River Parkway to After Exit 6A...",
+                "created_at": "Mon Mar 05 07:00:17 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.83324,
+                    41.052025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "I'm at Summit Signature Hotel in Slim River, Perak https://t.co/UL9oDN3hGb",
+                "created_at": "Mon Mar 05 07:00:52 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39428842,
+                    3.84333444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#bw 146/365 Got to hike around #LA on the only #rainy day of the year. #weather @ Silver Lake,\u2026 https://t.co/dLyWw2X86P",
+                "created_at": "Mon Mar 05 07:02:30 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2675,
+                    34.09444444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Missing Maui already...\n\n#roadtohana #waterfall #hawaii #adventure @ Road To Hana - Maui https://t.co/RfUApxwoKE",
+                "created_at": "Mon Mar 05 07:02:31 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.1421469,
+                    20.8508386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Each Sunrise brings a new day with new hopes for a new beginning @ Hills View Mountain https://t.co/0zHQfHL3Lq",
+                "created_at": "Mon Mar 05 07:06:21 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.50757,
+                    7.08659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Want to work at The Nature Conservancy? We're #hiring in #Lusaka, Lusaka Province! Click for details:\u2026 https://t.co/XTyQ9CoPFH",
+                "created_at": "Mon Mar 05 07:06:58 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3228165,
+                    -15.3875259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "summer mornings on the mountain \ud83d\udc4c\n\nThis view is hard to beat. I can sit here for hours watching\u2026 https://t.co/JlBCDeGyGk",
+                "created_at": "Mon Mar 05 07:07:40 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4239,
+                    -33.9253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "1st hike for 2018! \u26f0 @ Mt. Hapunang Banoi https://t.co/e8oBbw1srO",
+                "created_at": "Mon Mar 05 07:08:21 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.145,
+                    14.7325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Hangin with the homie @jdepoyster talking about credit cards and nature and stuff. Photo:\u2026 https://t.co/IC4GVGKSmX",
+                "created_at": "Mon Mar 05 07:08:25 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.943,
+                    33.4294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Chocolate Factory\n\n\ud83d\udccd Margaret River Chocolate Factory, Swan Valley -\u2026 https://t.co/85ju7steRU",
+                "created_at": "Mon Mar 05 07:09:08 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.9867205,
+                    -31.85224508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#hotspring #purifying #refreshed #mountains #mountain love @ Badrinath Temple https://t.co/WwlrVw5Kha",
+                "created_at": "Mon Mar 05 07:09:12 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.491175,
+                    30.744695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Eating healthy can be so much fun. Here is a whole campaign with Nature's Path crispy rice\u2026 https://t.co/FaW4gl3Uuo",
+                "created_at": "Mon Mar 05 07:09:38 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1869,
+                    -25.7533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Masih lagi liburan harini, kayaknya dengan nature pula deh \ud83c\udf43 @ The\u2026 https://t.co/q6lcE73VxR",
+                "created_at": "Mon Mar 05 07:10:57 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.68806477,
+                    -6.82743572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Off to another hike \ud83d\udc36\ud83d\udc3e\ud83c\udfd4\u2744\ufe0f #haveagoodday #cavalierkingcharlesspaniel #cavlife\u2026 https://t.co/4l3wJ1Yfvl",
+                "created_at": "Mon Mar 05 07:11:48 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.05,
+                    46.6167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Nature requires you be still, calm and peaceful to catch it in all its Beauty. #Nature\u2026 https://t.co/R5GqJEF6ew",
+                "created_at": "Mon Mar 05 07:12:50 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3407,
+                    43.7166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "ADVICE. Grass Fire. Murray River (Millewa River Road, Yielima,  3638) at 5 Mar 2018 18:00 https://t.co/eZ1btQ7mTC #NSWRFS #GrassFire",
+                "created_at": "Mon Mar 05 07:19:30 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.144964,
+                    -35.829043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83d\ude11\n\ud83e\udd18\n\u270c\n\u270c\n\ud83e\udd18\n#fun #instagramers #food #instago #pretty #followme #nature #lol #dog #hair #sunset\u2026 https://t.co/PyWolH9MPe",
+                "created_at": "Mon Mar 05 07:23:02 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.7833,
+                    22.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "We make our fortunes, and we call them fate\n\n#hashtags #nature #views #campus #photography #pics\u2026 https://t.co/aOFplAryKN",
+                "created_at": "Mon Mar 05 07:25:35 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.59252484,
+                    12.3568417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#nature @ Arusha, Tanzania https://t.co/3VSaAFU5bB",
+                "created_at": "Mon Mar 05 07:26:21 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.6833,
+                    -3.36667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Already a week since the snow was its appearance ... Nature will open us colors this week ?\u2026 https://t.co/CF7yBLS9Tc",
+                "created_at": "Mon Mar 05 07:34:23 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.02333333,
+                    43.10555556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "It\u2019s\u00a0not the mountain we conquer, but ourselves.\n\u00b0\n\u00b0\n\u00b0\n\u00b0\n\n#Greece #snow #mountain #winter\u2026 https://t.co/f9Il6ks5jI",
+                "created_at": "Mon Mar 05 07:34:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.20686511,
+                    40.31666954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "No matter how sophisticated you may be, a large mountain cannot be denied - it speaks in silence\u2026 https://t.co/Ry9dPNjLm2",
+                "created_at": "Mon Mar 05 07:34:59 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.6333,
+                    -15.7667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": ".\nsnowshoeing at Cypress mountain\u2026 https://t.co/cEoaQHrsM7",
+                "created_at": "Mon Mar 05 07:35:19 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.20409192,
+                    49.39575425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Hello Gunung Baling\nWoke up to this view\n\n#gunungbaling #baling\n#mountain #frishatravels @ Kedah https://t.co/uaFkoyYnJw",
+                "created_at": "Mon Mar 05 07:35:20 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.36277778,
+                    6.12833333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "The South California nature. Monstro-cactus. @ Mulholland Scenic\u2026 https://t.co/Kiu2U0hDAu",
+                "created_at": "Mon Mar 05 07:39:11 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.400921,
+                    34.122249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#NestersMarket Whistler is #nowplaying Green River by #CreedenceClearwaterRevival #cubevenue",
+                "created_at": "Mon Mar 05 07:39:29 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9580184,
+                    50.1274512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "ADVICE. Grass Fire. Murray River (Millewa River Road, Yielima,  3638) at 5 Mar 2018 18:31 https://t.co/eZ1btQ7mTC #NSWRFS #GrassFire",
+                "created_at": "Mon Mar 05 07:39:29 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.144964,
+                    -35.829043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Beautiful scenery from the top of the mountain\ud83d\udc95 @ Mammoth Mountain https://t.co/CFOg4EZ5Yz",
+                "created_at": "Mon Mar 05 07:42:35 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.02718245,
+                    37.65144657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#snowboard \u2744 to #rome \n.\n.\n.\n.\n #snow #nevearoma #nature #naturephotography #legoart\u2026 https://t.co/8dW8GS48cp",
+                "created_at": "Mon Mar 05 07:44:13 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5,
+                    41.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "The Nature Conservancy Wildlife Intern - 46242 ( #Durham, NC ) https://t.co/KrJoEvFfGE #sustentabilidade\u2026 https://t.co/cnzYBKxevx",
+                "created_at": "Mon Mar 05 07:44:42 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9046031,
+                    35.9930435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "While having s late lunch today on top of the mountain at Bathurst, this is what rolled in.\u2026 https://t.co/arhk4y4E2w",
+                "created_at": "Mon Mar 05 07:45:55 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.55806813,
+                    -33.44074849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Snow fun on Trelawney Mountain...\n\n#snowdays #trelawneyroad\u2026 https://t.co/eqlWr2M6Tm",
+                "created_at": "Mon Mar 05 07:46:05 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.06666667,
+                    50.15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#buongiornoamore #buongiornocosi #nuove #formedivita #inarrivo \ud83c\udf8b\ud83c\udf31\ud83c\udf8b\ud83c\udf31\ud83c\udf8b\ud83c\udf31 #comevento nature #love\u2026 https://t.co/wpBspDjgb6",
+                "created_at": "Mon Mar 05 07:46:38 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1667,
+                    42.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#Negroamaro and #Vegamaro, #nature from another point of view;#staytuned @FeudidiGuagnano #vegan https://t.co/NjW9iKiMEu",
+                "created_at": "Mon Mar 05 07:46:49 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.738056,
+                    45.928611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#Trabajo en #Durham, NC Wildlife Intern - 46242 de The Nature Conservancy https://t.co/cN3JfJNAcs #sostenibilidad\u2026 https://t.co/I1dbShgN63",
+                "created_at": "Mon Mar 05 07:47:33 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9046031,
+                    35.9930435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "DAB on top of the mountain \ud83c\udde6\ud83c\uddf9\ud83c\udde6\ud83c\uddf9\ud83c\udde6\ud83c\uddf9\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n#dab #point #view #me #selfie #goals\u2026 https://t.co/8VS8LyGDzi",
+                "created_at": "Mon Mar 05 07:48:57 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45770141,
+                    47.29051235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83d\udc4a\ud83c\udffb allansermino valerieako @143bluekitkath labestebaguio @ Tinipak River https://t.co/5D5xotr69V",
+                "created_at": "Mon Mar 05 07:53:48 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14358528,
+                    14.58032972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83d\ude04\ud83d\ude04\n.\n.\n.\n.\n.\n#rishikesh #friends #travel #riverside #friendship #nature #notanki #happy #crazy\u2026 https://t.co/D3PzVQOUIX",
+                "created_at": "Mon Mar 05 07:54:11 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3167,
+                    30.1167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "I just finished mountain biking 8.33 miles in 32m:30s with #Endomondo #endorphins https://t.co/gh3s5WdXew",
+                "created_at": "Mon Mar 05 07:55:24 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.24840753,
+                    50.85706112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Look at those perilous trail going to peak of deception of this mountain. Just a snippet of\u2026 https://t.co/sUl2HklDuM",
+                "created_at": "Mon Mar 05 07:56:34 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.56777778,
+                    12.41388889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Just posted a photo @ Mountain Man Orchard &amp; Markets https://t.co/kTQfQRz99Z",
+                "created_at": "Mon Mar 05 07:58:11 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.68067538,
+                    36.59479285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Because when you stop and look around, this life is pretty amazing. \ud83d\udc4a\u26f0\ud83d\udcaf #mountain #lookaround\u2026 https://t.co/Q0dqQVvG1d",
+                "created_at": "Mon Mar 05 07:58:59 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.08617401,
+                    17.23148537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Good morning, JdM\n#jardinesdemorante \n#nature \n#eventos \n#extremadura en Morantes, Extremadura,\u2026 https://t.co/VzFNoNOHjg",
+                "created_at": "Mon Mar 05 07:59:23 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.66667,
+                    39.05
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "River|Eminem ft ed sheraan",
+                "created_at": "Mon Mar 05 07:59:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.26845808,
+                    -15.27282946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#\u0437\u0438\u043c\u0430 #\u0445\u043e\u043b\u043e\u0434\u0430 ... #\u0434\u0432\u0430\u043f\u0430\u0444\u0430 #\u043d\u0430\u043d\u0435\u0432\u0435 #ma #son #ma #life @ Bolshaya Neva River https://t.co/Wx5KVUkS0k",
+                "created_at": "Mon Mar 05 08:01:08 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.30952778,
+                    59.94194444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Chill chill dulu. \ud83c\udfca\u200d\u2642\ufe0f (@ Poring Hot Spring &amp; Nature Reserve in Ranau, Sabah) https://t.co/Qd4SsTU5QM",
+                "created_at": "Mon Mar 05 08:01:40 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.70370281,
+                    6.04588718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Turtle \ud83d\ude09 New member of the Family... \n\n#nature #naturelove #naturebeauty #naturephotography\u2026 https://t.co/HbWyjOIAcX",
+                "created_at": "Mon Mar 05 08:01:42 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1377,
+                    26.18419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "it catches dreams (bad dreams maybe) \ud83e\udd14\ud83e\udd14\ud83e\udd14 @ Top's Mountain View Cebu https://t.co/iKNajyRkMs",
+                "created_at": "Mon Mar 05 08:02:53 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.920306,
+                    10.3098145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Nature creation. @ Diamond Harbour https://t.co/eu3x2S3Id6",
+                "created_at": "Mon Mar 05 08:03:19 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.1847,
+                    22.1917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Many of Hong Kong Disneyland's restaurants have closed down like this one, River View Cafe,\u2026 https://t.co/1d2fx2mY8Y",
+                "created_at": "Mon Mar 05 08:04:48 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.04177629,
+                    22.31011272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Feed your soul with nature's serving-beauty. \nRemove your anxiety, pain and other toxins that\u2026 https://t.co/aKeVUiC3qP",
+                "created_at": "Mon Mar 05 08:05:17 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.223,
+                    16.9708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Instead of drifting along like a leaf in a river, understand who you are and how you come across to people and what\u2026 https://t.co/Eum2AWSnG6",
+                "created_at": "Mon Mar 05 08:09:02 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.90466309,
+                    5.0382789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#Discover #magical coves-some of nature\u2019s very kind gifts to the #Costa #Brava at #Llanca https://t.co/TGP2nXK0Xh https://t.co/heFfDzmO1f",
+                "created_at": "Mon Mar 05 08:09:08 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3339902,
+                    40.5909089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u041b\u0435\u0434\u043e\u043a\u043e\u043b... #gx7 #35_10 #arkhangelsk #river #northerndvinariver #riverscape #russia #ice #snow\u2026 https://t.co/ehn3DvaZSB",
+                "created_at": "Mon Mar 05 08:09:16 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.48333333,
+                    64.53333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Flood Alert: River Waveney upstream of Ellingham 07:55 5 March https://t.co/QiUjck2BJA",
+                "created_at": "Mon Mar 05 08:09:26 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.265881,
+                    52.391396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83c\uddec\ud83c\udde7 Feel the strength of the nature at Igua\u00e7u Falls, Igua\u00e7u National Park, Foz do Igua\u00e7u, Brazil.\u2026 https://t.co/j2UvvsSOPx",
+                "created_at": "Mon Mar 05 08:12:28 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.26880543,
+                    -25.40540396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u041f\u043e\u0434\u0430\u0442\u044c \u0443\u0442\u043e\u043f\u0430\u044e\u0449\u0435\u043c\u0443... #gx7 #35_10 #arkhangelsk #river #northerndvinariver #riverscape #russia\u2026 https://t.co/auljonMfEA",
+                "created_at": "Mon Mar 05 08:12:36 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.48333333,
+                    64.53333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Just traipsing through the #Mountains. #Hiking #Hike #OptOutside #Outside #Outdoors #Mountain\u2026 https://t.co/8GVCX2PfXR",
+                "created_at": "Mon Mar 05 08:13:05 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.03171603,
+                    34.15192249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u041b\u0435\u0434\u043e\u043a\u043e\u043b... #gx7 #35_10 #arkhangelsk #river #northerndvinariver #riverscape #russia #ice #snow\u2026 https://t.co/VHAOzk9s9F",
+                "created_at": "Mon Mar 05 08:13:55 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.48333333,
+                    64.53333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Saturday arvo up in Toowoomba next brewstop was the Blue Mountain Hotel with a great view out\u2026 https://t.co/x1rNwrgQSA",
+                "created_at": "Mon Mar 05 08:14:52 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.95885899,
+                    -27.52772337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u041a\u0430\u043f\u0438\u0442\u0430\u043d... #gx7 #35_10 #arkhangelsk #river #northerndvinariver #riverscape #russia #ice #snow\u2026 https://t.co/xwdxUNXWhP",
+                "created_at": "Mon Mar 05 08:15:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.48333333,
+                    64.53333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Mountain Chips are here! \ud83d\udc4a\ud83d\ude31 You can enjoy crispy, crunchy popped potato chips with added protein\u2026 https://t.co/0RuTwdm3Yx",
+                "created_at": "Mon Mar 05 08:16:41 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.93452858,
+                    51.66497307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u041a\u0430\u0440\u0430\u0432\u0430\u043d... #gx7 #35_10 #arkhangelsk #river #northerndvinariver #riverscape #russia #ice #snow\u2026 https://t.co/3e2emuPIZX",
+                "created_at": "Mon Mar 05 08:17:05 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.48333333,
+                    64.53333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u81ea\u7136\u74b0\u5883\u306b\u3064\u3044\u3066\u6c17\u306b\u306a\u308b\u70b9\u306f\u3001\u7279\u306b\u3042\u308a\u307e\u305b\u3093\u3002\u6c60\u3084\u904a\u5177\u3001\u6a39\u6728\u306e\u591a\u3044\u3001\u5e83\u3044\u516c\u5712\u306b\u96a3\u63a5\u3057\u3066\u304a\u308a\u3001\u30a4\u30d9\u30f3\u30c8\u306a\u3069\u3082\u3042\u308a\u307e\u3059\u3002\uff08\u30b0\u30e9\u30f3\u30fb\u30a2\u30e0\u30fc\u30eb\uff09 #\u845b\u897f\u99c5 #\u6c5f\u6238\u5ddd\u533a https://t.co/1Bs6TBLZbk",
+                "created_at": "Mon Mar 05 08:18:07 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.869978,
+                    35.665212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u041f\u0435\u0440\u0435\u0445\u043e\u0434... #gx7 #35_10 #arkhangelsk #river #northerndvinariver #riverscape #russia #ice #snow\u2026 https://t.co/5zOmR0WywV",
+                "created_at": "Mon Mar 05 08:18:36 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.48333333,
+                    64.53333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Back to normal: River Lugg south of Leominster 08:03 5 March https://t.co/FD96vKlpJ1",
+                "created_at": "Mon Mar 05 08:19:26 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.685001,
+                    52.110445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Nature is life here. \ud83c\udf34\ud83c\udf35\ud83c\udf33\ud83c\udf3b @ Rancho Mitra https://t.co/GbQBEuOy5n",
+                "created_at": "Mon Mar 05 08:20:39 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.73549027,
+                    9.81182066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u0424\u043e\u0440\u0448\u0442\u0435\u0432\u0435\u043d\u044c... \u0415\u0441\u043b\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u043f\u043e\u043d\u0438\u043c\u0430\u044e, \u044d\u0442\u043e https://t.co/OrN0YoiNeP #gx7 #35_10 #arkhangelsk #river\u2026 https://t.co/vAhZl9AhES",
+                "created_at": "Mon Mar 05 08:20:54 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.48333333,
+                    64.53333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "From animation back to reality( with sound of nature)#animationart #motiongraphics #videoofday\u2026 https://t.co/ErWhJm4O5V",
+                "created_at": "Mon Mar 05 08:23:38 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3989,
+                    52.5006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u8fd1\u304f\u306f\u5de5\u5834\u5730\u5e2f\u3068\u306a\u3063\u3066\u307e\u3059\u3002\u9a12\u97f3\u3068\u304b\u304c\u3069\u3046\u306a\u306e\u304b\u6c17\u306b\u306a\u3063\u3066\u307e\u3059\u3002\u307e\u305f\u3001\u8fd1\u304f\u306b\u30de\u30f3\u30b7\u30e7\u30f3\u304c\u3044\u304f\u3064\u304b\u5efa\u3063\u3066\u3044\u308b\u306e\u3067\u30014\u968e\u4ee5\u4e0a\u3067\u306a\u3044\u3068\u666f\u89b3\u306e\u629c\u3051\u611f\u304c\u611f\u3058\u3089\u308c\u306a\u3044\u3001\u65e5\u5dee\u3057\u304c\u5165\u3089\u306a\u3044\u306a\u3069\u3042...\uff08\u30a8\u30af\u30bb\u30ec\u30f3\u30c8\u30b7\u30c6\u30a3\u6d66\u5b89 \uff09 #\u6d66\u5b89\u99c5 #\u6d66\u5b89\u5e02 https://t.co/qKjdHI8Ms4",
+                "created_at": "Mon Mar 05 08:26:19 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.90403164,
+                    35.6623769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Join the HMSHost team! See our latest #job opening here: https://t.co/u49r5L7hXD #barista #Barista #Starbucks #Waterfall, PA #Hiring",
+                "created_at": "Mon Mar 05 08:26:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.0622492,
+                    40.1270952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Beautiful sunset to conclude this trip @ Chao Phraya River https://t.co/Y75RzLjwvt",
+                "created_at": "Mon Mar 05 08:28:48 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.58972222,
+                    13.54027778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Taking a full breath of fresh air \ud83c\uddf8\ud83c\uddea\u2744\ufe0f #snow #sweden #nature @ Stockholm, Sweden https://t.co/q3Rq7cFMdN",
+                "created_at": "Mon Mar 05 08:30:29 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0667,
+                    59.35
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u201cLaguna volc\u00e1n\u201d cerca se #samaipata #bolivia #paradise #nature #altameditacion #puravida #yoga\u2026 https://t.co/snOWFDzgpm",
+                "created_at": "Mon Mar 05 08:31:31 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.99122861,
+                    -17.05686961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u7dd1\u304c\u591a\u3044\u5206\u3001\u868a\u306a\u3069\u3001\u5c0f\u3055\u306a\u866b\u304c\u90fd\u4f1a\u306e\u7269\u4ef6\u3088\u308a\u3082\u591a\u3044\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002\u305f\u3060\u3001\u7db2\u6238\u304c\u3042\u308b\u306e\u3067\u3001\u3042\u307e\u308a\u5fc3\u914d\u3057\u306a\u3044\u3067\u554f\u984c\u306a\u3044\u304b\u3068\u601d\u3044\u307e\u3059\u3002\uff08\u30b0\u30e9\u30f3\u30c9\u30e1\u30be\u30f3\u6771\u6238\u585a\uff09 #\u6771\u6238\u585a\u99c5 #\u6a2a\u6d5c\u5e02\u6238\u585a\u533a https://t.co/CoxE5gz3Pm",
+                "created_at": "Mon Mar 05 08:34:49 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.549884,
+                    35.423679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Nice people... nice views... one day in can boquet !! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f @tirantlojaume #nature #climbing\u2026 https://t.co/y4jc2daGVH",
+                "created_at": "Mon Mar 05 08:35:56 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3429824,
+                    41.5266765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Goodmorning.. #good #renkli #cat #kedi #insect #photooftheday #photography #instacool #nature\u2026 https://t.co/jH6hvdNweH",
+                "created_at": "Mon Mar 05 08:36:24 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.86833333,
+                    41.1575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Colors of Nature\nNikon D800 35mm SB 910, with ring flash\n almost sooc, shot mid-day @ Muscat, Oman https://t.co/vP9DSP91Ts",
+                "created_at": "Mon Mar 05 08:36:33 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.54,
+                    23.61
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "PARADISE FOUND\n\u26f0\u26f0\ud83c\udf33\ud83c\udf3f\ud83c\udf43\ud83c\udf31 @ Hills View Mountain Villa https://t.co/3FSTDvtrIQ",
+                "created_at": "Mon Mar 05 08:36:47 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.51022256,
+                    7.10042147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u0442\u0430\u043a\u043e\u0435 \u0441\u0435\u0431\u0435 \u043f\u044f\u0442\u043e\u0435 \u043c\u0430\u0440\u0442\u0430, \u0435\u0441\u043b\u0438 \u0447\u0435\u0441\u0442\u043d\u043e. \u0438 \u0441\u043d\u0435\u0433 \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u0442\u044c\u0441\u044f, \u0432\u0438\u0434\u0438\u043c\u043e, \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \ud83d\ude11 #nature\u2026 https://t.co/a4vlPSpaU2",
+                "created_at": "Mon Mar 05 08:38:02 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.33333333,
+                    58.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Just loving that I do!! Nature around is our big partner \ud83d\udc4c\n\nI just\u2026 https://t.co/VMVP3ecg3N",
+                "created_at": "Mon Mar 05 08:40:20 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.58569576,
+                    -37.94597603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Today trip the mountain &amp; the\u2026 https://t.co/lF7YJO3qip",
+                "created_at": "Mon Mar 05 08:41:04 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.4,
+                    -28.3167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Sooner or crater! Taking a hike. @ Mount Eden https://t.co/27z4QlFC8i",
+                "created_at": "Mon Mar 05 08:41:25 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.76441063,
+                    -36.87800543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "The sky is a neighborhood \u2026\u2026\u2026Asahikawa, Hokkaido, Japan now. \n#foo fighters #rock #nature\u2026 https://t.co/qSlkAzQkNf",
+                "created_at": "Mon Mar 05 08:42:52 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.367,
+                    43.7667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "Fish spa \ud83d\ude0a (@ Kopungit Waterfall) https://t.co/gUjl7PL04s https://t.co/a7urQRqRVE",
+                "created_at": "Mon Mar 05 08:43:24 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.70231948,
+                    6.04808119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "#Emprego alerta: Water Markets &amp; Scarcity MBA Intern - 46240 | The Nature Conservancy | #Denver, CO\u2026 https://t.co/s9hjenbHzM",
+                "created_at": "Mon Mar 05 08:44:53 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9984759,
+                    39.7479625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\u00ab\u0412\u043e\u0434\u043e\u043f\u0430\u0434\u00bb \ud83e\udd23\ud83e\udd23 @ Waterfall 2 Ko Samui https://t.co/ZZvJz5SRIL",
+                "created_at": "Mon Mar 05 08:47:00 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.98984457,
+                    9.47110279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "The Nature Conservancy Agricultural Technician - 46244 ( #Chico, CA ) https://t.co/LSRNYcSMNU #sostenibilidad\u2026 https://t.co/oFDK8z6h2b",
+                "created_at": "Mon Mar 05 08:47:39 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8353562,
+                    39.7294177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "\ud83c\udf1eG\u00dcNAYDIN \ud83c\udf1e\n#goodmorning #nature #sunrise #sky #morning #objektifimden #instagood #aniyakala\u2026 https://t.co/Pv39jS51l0",
+                "created_at": "Mon Mar 05 08:48:19 +0000 2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.9647,
+                    41.0186
+                ]
+            }
+        }
+    ]
+}
